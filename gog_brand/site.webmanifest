@@ -1,0 +1,14 @@
+{
+  "name": "GoG IA Services",
+  "short_name": "GoG",
+  "icons": [
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1a1f3d",
+  "background_color": "#1a1f3d",
+  "display": "standalone"
+}
